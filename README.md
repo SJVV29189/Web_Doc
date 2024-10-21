@@ -8,6 +8,7 @@ Creating Sub-sites of the Main web-page:
 - (Data) Consultancy Section
 - Connect Website to Animation / Publisher's Website
 - Laboratory Website Section
+- Personal Beliefs Section
 - Projects Listed
 - Writing / Publications / Presentations / Blog Section
 - Code
