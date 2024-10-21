@@ -5,11 +5,11 @@ Website to hold all my documents for everyone to see
 Creating Sub-sites of the Main web-page: 
 
 
-- Data Consultancy Section
+- (Data) Consultancy Section
 - Connect Website to Animation / Publisher's Website
 - Laboratory Website Section
 - Projects Listed
-- Writing / Publications / Presentations
+- Writing / Publications / Presentations / Blog Section
 - Code
 - Contact
 - Courses / Training
@@ -17,7 +17,6 @@ Creating Sub-sites of the Main web-page:
      - Add Academic Bio
      - Add Contact List
      - Add About this Website
-     - 
 
 
 
