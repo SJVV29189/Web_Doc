@@ -6,6 +6,7 @@ Creating Sub-sites of the Main web-page:
 
 
 - Data Consultancy Section
+- Connect Website to Animation / Publisher's Website
 - Laboratory Website Section
 - Projects Listed
 - Writing / Publications / Presentations
@@ -15,7 +16,8 @@ Creating Sub-sites of the Main web-page:
 - About
      - Add Academic Bio
      - Add Contact List
-     - Add About this Website 
+     - Add About this Website
+     - 
 
 
 
