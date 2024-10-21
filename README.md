@@ -27,4 +27,11 @@ Creating Sub-sites of the Main web-page:
     - Add Work-Email
     - Add GitHub
     - Add X.com
-    - 
+ 
+
+Use Python / Django 
+Or Next.js, Three.js, Tailwind CSS
+
+
+
+
