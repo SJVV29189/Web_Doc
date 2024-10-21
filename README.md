@@ -16,17 +16,13 @@ Creating Sub-sites of the Main web-page:
 - About
      - Add Academic Bio
      - Add Contact List
-     - Add About this Website
-
-
-
-
+     - Add necessary hyperlinks
+     - Add Work-Email
+     - Add GitHub
+     - Add X.com
+     - Patreon.com
 - Add photo of oneself.
-- Add necessary hyperlinks
-    - Add Work-Email
-    - Add GitHub
-    - Add X.com
- 
+
 
 Use Python / Django 
 Or Next.js, Three.js, Tailwind CSS
