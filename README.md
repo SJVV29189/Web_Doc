@@ -13,6 +13,7 @@ Creating Sub-sites of the Main web-page:
 - Writing / Publications / Presentations / Blog Section
 - Code
 - Contact
+- Add Shortcuts to Websites page (with personal icons like `skillicons`
 - Courses / Training
 - About
      - Add Academic Bio
