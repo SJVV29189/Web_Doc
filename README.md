@@ -11,6 +11,11 @@ Creating Sub-sites of the Main web-page:
 - Personal Beliefs Section
 - Projects Listed
 - Writing / Publications / Presentations / Blog Section
+    - Add Sections to each Project category
+         - Stakeholder Projects
+         - Case Studies
+         - Personal Projects
+         - Learning Projects
 - Code
 - Contact
 - Add Shortcuts to Websites page (with personal icons like `skillicons`
